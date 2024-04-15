@@ -5,7 +5,6 @@ PerplexityProtege is a mini clone or simplified version of the Perplexity AI sea
 
 ## Workflow
 
-### Workflow:
 
 1. **User Input**: 
    - Users interact with the Streamlit web interface by entering their questions into the text input field provided.
