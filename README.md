@@ -1,5 +1,4 @@
 # PerplexityProtege
-A mini clone or simplified version of the Perplexity AI search assistant.
 
 PerplexityProtege is a mini clone or simplified version of the Perplexity AI search assistant. It is a web application that utilizes the Serper API for search, `llama2-70b-4096` model using Groq API for generating responses. It allows users to input questions, fetch related contexts, generate answers, and display related questions.
 
